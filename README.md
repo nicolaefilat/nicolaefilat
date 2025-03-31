@@ -1,6 +1,10 @@
-### Hi there 👋
+### **Hi there! 👋**  
 
-### About me
-- 🔭 I’m currently in my 1<sup>st</sup> year of masters at KTH where I am studying Machine Learning
-- 🌱 I’m currently taking an introductory course to ML and another one for AI 
-- 🔬 I'm also done with the development of my Honours Project using Julia. I contributed to [this](https://github.com/Herb-AI/HerbSearch.jl) repository.
+### **About Me**  
+- 🎓 I graduated from **TU Delft** with a degree in **Computer Science**.
+- 🚀 Successfully finished my Honours Research Project on _Program synthesis_ using **Julia**, contributing to [HerbSearch.jl](https://github.com/Herb-AI/HerbSearch.jl).  
+- 📚 Currently pursuing my **Master’s in Machine Learning** at **KTH**.  
+- 💻 Passionate about **computers, programming, and exploring different languages**.  
+- 🐧 Enthusiastic about **Linux, server administration, and system security**.  
+- 🔍 Fascinated by **bug bounty and penetration testing**—an interest sparked by an **Ethical Hacking** course I took at KTH.  
+
